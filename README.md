@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="Project Banner" width="100%">
+  <img src="images/banner.png" alt="Project Banner" width="100%">
 </p>
-<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 
