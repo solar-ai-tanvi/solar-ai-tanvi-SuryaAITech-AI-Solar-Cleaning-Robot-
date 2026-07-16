@@ -198,3 +198,68 @@ SuryaAITech
 # 🙏 Acknowledgement
 
 This project is being developed as part of continuous research and innovation in Artificial Intelligence, Robotics, and Renewable Energy with the vision of improving solar power plant maintenance through intelligent automation.
+
+---
+
+# 📌 Project Status
+
+> 🚧 This project is currently under active development.
+
+Current Progress:
+
+- ✅ Research Completed
+- ✅ System Design Completed
+- ✅ Hardware Planning Completed
+- ✅ Software Architecture Designed
+- 🔄 Prototype Development In Progress
+- ⏳ AI Model Development
+- ⏳ Testing & Validation
+- ⏳ Deployment
+
+---
+
+# 🌍 Project Goals
+
+- Increase solar panel efficiency.
+- Reduce manual cleaning effort.
+- Minimize maintenance costs.
+- Enable intelligent autonomous cleaning.
+- Promote sustainable renewable energy.
+
+---
+
+# 💡 Why This Project?
+
+Solar energy is one of the fastest growing renewable energy sources. However, dust accumulation significantly reduces panel efficiency.
+
+Our vision is to develop an intelligent robotic solution capable of inspecting, analyzing, and cleaning solar panels autonomously while minimizing human intervention and operational costs.
+
+---
+
+# ⚙ Technology Overview
+
+Artificial Intelligence
+
+↓
+
+Computer Vision
+
+↓
+
+Raspberry Pi
+
+↓
+
+ESP32
+
+↓
+
+Sensors
+
+↓
+
+Cleaning System
+
+↓
+
+IoT Dashboard
