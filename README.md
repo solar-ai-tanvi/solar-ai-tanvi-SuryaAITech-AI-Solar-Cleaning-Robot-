@@ -133,3 +133,17 @@ The system consists of two main controllers:
 - Monitoring Dashboard
 
 The Raspberry Pi captures images from the camera, processes them using Computer Vision, decides whether cleaning is required, and sends commands to the ESP32. The ESP32 controls motors, sensors, and the cleaning mechanism while continuously sending system status through Wi-Fi.
+
+---
+
+# 🔄 Project Workflow
+
+1. Camera captures the solar panel image.
+2. Raspberry Pi processes the image using Computer Vision.
+3. AI determines whether cleaning is required.
+4. Cleaning command is sent to ESP32.
+5. ESP32 controls motors and cleaning mechanism.
+6. Battery voltage and water level are monitored continuously.
+7. Robot navigates safely using IR and Ultrasonic sensors.
+8. System status is transmitted through Wi-Fi.
+9. Dashboard displays operational information in real time.
