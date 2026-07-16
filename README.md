@@ -16,6 +16,8 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow)
 
 </p>
+
+
 # 🤖 AI & IoT Enabled Autonomous Solar Panel Cleaning and Intelligent Maintenance Robot
 
 ### 🚀 Developed by SuryaAITech
@@ -40,7 +42,7 @@ Existing robotic solutions are often expensive, require frequent manual supervis
 
 There is a growing need for an autonomous, AI-driven robotic solution capable of inspecting, analyzing, and cleaning solar panels efficiently while providing real-time monitoring and predictive maintenance support.
 
-
+---
 
 # 🎯 Objectives
 
@@ -52,3 +54,22 @@ There is a growing need for an autonomous, AI-driven robotic solution capable of
 - Enable real-time monitoring through IoT.
 - Support predictive maintenance for large solar farms.
 - Build a scalable and intelligent robotic maintenance solution.
+
+---
+
+# ✨ Key Features
+
+- 🤖 AI Vision-Based Solar Panel Inspection
+- 🧠 Intelligent Decision Making using Raspberry Pi
+- 🧹 Autonomous Need-Based Cleaning
+- 📷 Camera-Based Computer Vision
+- 📡 Wi-Fi Enabled IoT Monitoring
+- 🔋 Battery Voltage Monitoring
+- 💧 Water Level Monitoring
+- 🚧 Obstacle Detection using Ultrasonic Sensor
+- 📍 Edge Detection using IR Sensors
+- ⚡ Modular Hardware Design
+- 🔄 Rechargeable Battery System
+- 📊 Real-Time Dashboard Monitoring
+
+ 
