@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Project Banner" width="100%">
+</p>
 # 🤖 AI & IoT Enabled Autonomous Solar Panel Cleaning and Intelligent Maintenance Robot
 
 ### 🚀 Developed by SuryaAITech
