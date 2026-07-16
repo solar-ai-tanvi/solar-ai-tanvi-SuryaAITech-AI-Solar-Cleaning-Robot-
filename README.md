@@ -147,3 +147,54 @@ The Raspberry Pi captures images from the camera, processes them using Computer 
 7. Robot navigates safely using IR and Ultrasonic sensors.
 8. System status is transmitted through Wi-Fi.
 9. Dashboard displays operational information in real time.
+
+---
+
+# 📂 Repository Structure
+
+```text
+SuryaAITech-AI-Solar-Cleaning-Robot
+│
+├── docs/
+├── hardware/
+├── software/
+├── ai_model/
+├── images/
+├── presentation/
+├── resources/
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+# 🚀 Future Scope
+
+- AI-based dust severity estimation
+- Predictive maintenance using AI analytics
+- Multi-robot coordination for large solar farms
+- Cloud-based performance monitoring
+- Mobile application for remote monitoring
+- Automated charging and docking station
+- Digital Twin integration
+- Expansion to other renewable energy maintenance applications
+
+---
+
+# 👨‍💻 Contributors
+
+**Tanvi Palak**
+
+Founder & Developer
+
+**Organization**
+
+SuryaAITech
+
+---
+
+# 🙏 Acknowledgement
+
+This project is being developed as part of continuous research and innovation in Artificial Intelligence, Robotics, and Renewable Energy with the vision of improving solar power plant maintenance through intelligent automation.
