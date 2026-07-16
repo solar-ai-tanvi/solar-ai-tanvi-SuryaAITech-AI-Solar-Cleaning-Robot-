@@ -1,6 +1,21 @@
 <p align="center">
   <img src="banner.png" alt="Project Banner" width="100%">
 </p>
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+
+![YOLO](https://img.shields.io/badge/YOLO-AI-red)
+
+![ESP32](https://img.shields.io/badge/ESP32-IoT-orange)
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A)
+
+![MIT License](https://img.shields.io/badge/License-MIT-yellow)
+
+</p>
 # 🤖 AI & IoT Enabled Autonomous Solar Panel Cleaning and Intelligent Maintenance Robot
 
 ### 🚀 Developed by SuryaAITech
