@@ -112,3 +112,24 @@ There is a growing need for an autonomous, AI-driven robotic solution capable of
 
 - UART (Raspberry Pi ↔ ESP32)
 - Wi-Fi
+
+---
+
+# 🏗️ System Architecture
+
+The system consists of two main controllers:
+
+- **Raspberry Pi 5** – Responsible for AI vision processing, image analysis, decision-making, and communication.
+- **ESP32** – Responsible for motor control, sensor data acquisition, and robot movement.
+
+### Main Modules
+
+- Camera Module
+- AI Vision Module
+- ESP32 Control Unit
+- Navigation Sensors
+- Cleaning System
+- IoT Communication
+- Monitoring Dashboard
+
+The Raspberry Pi captures images from the camera, processes them using Computer Vision, decides whether cleaning is required, and sends commands to the ESP32. The ESP32 controls motors, sensors, and the cleaning mechanism while continuously sending system status through Wi-Fi.
