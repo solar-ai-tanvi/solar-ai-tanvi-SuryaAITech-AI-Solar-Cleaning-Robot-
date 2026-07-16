@@ -72,4 +72,43 @@ There is a growing need for an autonomous, AI-driven robotic solution capable of
 - 🔄 Rechargeable Battery System
 - 📊 Real-Time Dashboard Monitoring
 
- 
+---
+
+# 🛠 Technology Stack
+
+## Hardware
+
+- Raspberry Pi 5
+- ESP32
+- Camera Module
+- Ultrasonic Sensor
+- IR Sensors
+- Battery Voltage Sensor
+- Water Level Sensor
+- BTS7960 Motor Driver
+- High Torque DC Motors
+- Cleaning Roller
+- Water Pump
+- 24V Li-ion Battery
+- Battery Management System (BMS)
+
+---
+
+## Software
+
+- Python
+- Arduino IDE
+- Raspberry Pi OS
+- OpenCV
+- YOLO (Computer Vision)
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## Communication
+
+- UART (Raspberry Pi ↔ ESP32)
+- Wi-Fi
